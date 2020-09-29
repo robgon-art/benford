@@ -1,1 +1,1 @@
-This project contains a Google Colab notebpook and datafiles for my article on Medium.
+This project contains a Google Colab notebook and data files for my article on Benford's Law on Medium.
